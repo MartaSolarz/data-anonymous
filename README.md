@@ -1,1 +1,3 @@
 # data-anonymous
+
+The dataset provides a comprehensive evaluation of multimodal generative AI models in statistical map’s reading, analysis, and interpretation. Each record contains a map-based question, the model-generated answer, a detailed score across multiple evaluation categories (A–D), and metadata describing the model, map characteristics, question type, and response context. The dataset enables systematic analysis of AI performance in reading (identification, localization, value retrieval), analysis (comparison, clustering, association), and interpretation (interpretation, cause/effect, prediction) based on statistical maps.
